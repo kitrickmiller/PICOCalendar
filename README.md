@@ -1,4 +1,4 @@
-# What the heck is this
+# A solution to a scheduling problem.
 
 After 25 years on this earth with little to no calendar usage, and some missed personal events (thankfully my work calendar is up to date!), I realized something had to change. I wanted to start using my Google calendar more, but couldn't find the inspiration to do so. That was until I stumbled accross this GitHub repo/project while looking at fun raspberry Pi projects: https://github.com/zli117/EInk-Calendar.
 
