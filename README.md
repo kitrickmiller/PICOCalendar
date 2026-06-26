@@ -6,7 +6,7 @@ I loved this idea, but wanted to challenge myself to make my own customized vers
 
 A MicroPython calendar dashboard for the Pimoroni Inky Frame 7.3" (Spectra 6-color) with Pico 2 W. Displays upcoming events from Google Calendar (or any iCal feed) on the left panel and a timeline of today on the right panel. It updates every hour.
 
-![Inky Frame Dashboard](dashboard.jpg)
+![Inky Frame Dashboard](dashboard.jpeg)
 
 ## Hardware used/needed
 
